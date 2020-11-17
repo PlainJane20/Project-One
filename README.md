@@ -4,8 +4,8 @@
 
 # Team Members:
 * Navi - data pull and data cleaning
-* Alicia creating the data frame
-* Ryan data frame and charts
+* Alicia - creating the data frame
+* Ryan - data frame and charts
 
 # Project Description/Outline:
 Relationship between real estate prices and homeless population.
@@ -30,7 +30,6 @@ https://www.hudexchange.info/programs/coc/coc-homeless-populations-and-subpopula
 Pulling data and cleaning the data 
 Taking the latest 5 years of data
 PowerPoint slide to present at the end of the project.
-
 
 # Data Analytics:
 * Seav Ly (Alicia) 
