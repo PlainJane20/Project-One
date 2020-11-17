@@ -8,15 +8,15 @@
 * Ryan - data frame and charts
 
 # Project Description/Outline:
-Relationship between real estate prices and homeless population.
-If there is correlation, which county has the highest homeless population or most expensive housing? 
-Which is the most feasible real estate locations. (Less homeless, affordable housing).
+* Relationship between real estate prices and homeless population.
+* If there is correlation, which county has the highest homeless population or most expensive housing? 
+* Which is the most feasible real estate locations. (Less homeless, affordable housing).
 
 # Research Questions to Answer:
-Is there any correlation between real estate prices and homeless population 
-Which cities/county has the highest homeless population? 
-Which location has the best real estate price? Definition of Best - lesser homeless, reputable university, price per square foot. 
-Other things to consider: Rent control housing, homeless shelters, weather, crime rate, view, geographics 
+* Is there any correlation between real estate prices and homeless population 
+* Which cities/county has the highest homeless population? 
+* Which location has the best real estate price? Definition of Best - lesser homeless, reputable university, price per square foot. 
+* Other things to consider: Rent control housing, homeless shelters, weather, crime rate, view, geographics 
 Demographic Bar graph : homeless population demographics
 
 # Datasets to be used:
@@ -27,9 +27,9 @@ Filter it down to California and by county
 https://www.hudexchange.info/programs/coc/coc-homeless-populations-and-subpopulations-reports/
 
 # Rough Breakdown of Tasks:
-Pulling data and cleaning the data 
-Taking the latest 5 years of data
-PowerPoint slide to present at the end of the project.
+* Pulling data and cleaning the data 
+* Taking the latest 5 years of data
+* PowerPoint slide to present at the end of the project.
 
 # Data Analytics:
 * Seav Ly (Alicia) 
