@@ -3,6 +3,7 @@
 ![RealEstate](Images/RS.jpg)
 
 # Project Title: Housing Price Vs Homeless Population
+Afforable Housing, CA
 
 # Team Members:
 * Navi - data pull and data cleaning
