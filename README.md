@@ -35,7 +35,9 @@ https://www.hudexchange.info/resource/5948/2019-ahar-part-1-pit-estimates-of-hom
 * 2007-2019; Point in time estimates by sate
 * 2007-2019; Housing inventory count by state
 
-https://www.census.gov/quickfacts/fact/table/CA/PST045219
+https://www.census.gov/quickfacts/fact/table/CA/
+
+https://worldpopulationreview.com/state-rankings/homeless-population-by-state#dataTable
 
 
 ### Rough Breakdown of Tasks:
