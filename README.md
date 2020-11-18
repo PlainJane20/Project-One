@@ -22,7 +22,7 @@ Afforable Housing, CA
 * Other things to consider: Rent control housing, homeless shelters, weather, crime rate, view, geographics 
 Demographic Bar graph : homeless population demographics
 
-# Datasets to be used:
+### Datasets to be used:
 
 https://www.kaggle.com/moezabid/zillow-all-homes-data
 * 2010-2016; Zillow economic data
