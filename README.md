@@ -31,8 +31,8 @@ https://www.hudexchange.info/programs/coc/coc-homeless-populations-and-subpopula
 * CoC Homeless Populations and Subpopulations Reports; 2015-2019
 
 https://www.hudexchange.info/resource/5948/2019-ahar-part-1-pit-estimates-of-homelessness-in-the-us/
-* 2007-2019; Point in time estimates by sate
-* 2007-2019; Housing inventory count by state
+* 2015-2019; Point in time estimates by state
+* 2015-2019; Housing inventory count by state
 
 https://www.census.gov/quickfacts/fact/table/CA/
 
