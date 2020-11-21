@@ -39,6 +39,8 @@ https://www.census.gov/quickfacts/fact/table/CA/
 
 https://worldpopulationreview.com/state-rankings/homeless-population-by-state#dataTable
 
+https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-animated.html
+
 
 ### Rough Breakdown of Tasks:
 1. Pulling data and cleaning the data 
