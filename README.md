@@ -24,9 +24,8 @@ Demographic Bar graph : homeless population demographics
 
 ### Datasets to be used:
 
-https://www.kaggle.com/moezabid/zillow-all-homes-data
-* 2010-2016; Zillow economic data
-* Filter it down to California and by county
+https://www.zillow.com/research/data/
+* 2015-2020; Zillow economic data
 
 https://www.hudexchange.info/programs/coc/coc-homeless-populations-and-subpopulations-reports/
 * CoC Homeless Populations and Subpopulations Reports; 2015-2019
