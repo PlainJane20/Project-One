@@ -1,8 +1,6 @@
-# Project-One
-
 ![RealEstate](Images/RS.jpg)
 
-### Project Title: Housing Price Vs Homeless Population
+### Housing Price Vs Homeless Population
 
 ### Project Description/Outline:
 * Relationship between real estate prices and homeless population.
