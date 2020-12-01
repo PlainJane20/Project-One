@@ -1,6 +1,6 @@
-![RealEstate](Images/RS.jpg)
+## Housing Price Vs Homeless Population
 
-### Housing Price Vs Homeless Population
+![RealEstate](Images/RS.jpg)
 
 ### Project Description/Outline:
 * Relationship between real estate prices and homeless population.
