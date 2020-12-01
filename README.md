@@ -2,6 +2,9 @@
 
 ![RealEstate](Images/RS.jpg)
 
+### Motivation:
+Homelessness is an continued issue which burden’s our community across the globe, specially elevated with COVID. Goal of the project is to dive into factors that are related to homeleness and housing prices using various data available to us nationwide.
+
 ### Project Description/Outline:
 * Relationship between real estate prices and homeless population.
 * If there is correlation, which county has the highest homeless population or most expensive housing? 
@@ -32,7 +35,6 @@ https://www.census.gov/quickfacts/fact/table/CA/
 https://worldpopulationreview.com/state-rankings/homeless-population-by-state#dataTable
 
 https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-animated.html
-
 
 ### Rough Breakdown of Tasks:
 1. Pulling data and cleaning the data 
