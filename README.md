@@ -21,11 +21,12 @@ https://www.zillow.com/research/data/
 * 2015-2020; Zillow economic data
 
 https://www.hudexchange.info/programs/coc/coc-homeless-populations-and-subpopulations-reports/
-* CoC Homeless Populations and Subpopulations Reports; 2015-2019
+* CoC (Continuums of Care) Homeless Populations and Subpopulations Reports; 2015-2019
 
 https://www.hudexchange.info/resource/5948/2019-ahar-part-1-pit-estimates-of-homelessness-in-the-us/
 * 2015-2019; Point in time estimates by state
 * 2015-2019; Housing inventory count by state
+(Each of these resources is reported by Continuums of Care to the US Housing and Urban Development (HUD) department)
 
 https://www.census.gov/quickfacts/fact/table/CA/
 
