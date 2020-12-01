@@ -3,12 +3,6 @@
 ![RealEstate](Images/RS.jpg)
 
 ### Project Title: Housing Price Vs Homeless Population
-Afforable Housing, CA
-
-### Team Members:
-* Navi - data pull and data cleaning
-* Alicia - creating the data frame
-* Ryan - data frame and charts
 
 ### Project Description/Outline:
 * Relationship between real estate prices and homeless population.
@@ -18,9 +12,8 @@ Afforable Housing, CA
 ### Research Questions to Answer:
 * Is there any correlation between real estate prices and homeless population 
 * Which cities/county has the highest homeless population? 
-* Which location has the best real estate price? Definition of Best - lesser homeless, reputable university, price per square foot. 
-* Other things to consider: Rent control housing, homeless shelters, weather, crime rate, view, geographics 
-Demographic Bar graph : homeless population demographics
+* Homeless shelters, view, geographics 
+* Demographic Bar graph : homeless population demographics
 
 ### Datasets to be used:
 
