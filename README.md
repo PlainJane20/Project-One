@@ -16,7 +16,7 @@ Homelessness is an continued issue which burden’s our community across the glo
 * Homeless shelters, view, geographics 
 * Demographic Bar graph : homeless population demographics
 
-### Datasets to be used:
+### Datasets used but not limited to:
 
 https://www.zillow.com/research/data/
 * 2015-2020; Zillow economic data
@@ -44,7 +44,7 @@ https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-
 5. Analyze and plot the data to answer our research questions as applicable
 6. PowerPoint slide to present at the end of the project.
 
-### Data Analytics:
+### Data Analytics Team:
 * Seav Ly (Alicia) 
 * Ryan Murnane
 * Navi Sohi
