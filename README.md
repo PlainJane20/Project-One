@@ -47,4 +47,4 @@ https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-
 ### Data Analytics Team:
 * Seav Ly (Alicia) 
 * Ryan Murnane
-* Navi Sohi
+* [Navi Sohi](https://github.com/PlainJane20)
